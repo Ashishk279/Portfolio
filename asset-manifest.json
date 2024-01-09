@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3b060c33.css",
+    "main.js": "/Portfolio/static/js/main.286eee88.js",
+    "static/js/787.2dcca737.chunk.js": "/Portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/myImage3.png": "/Portfolio/static/media/myImage3.3878436d355af3909941.png",
+    "static/media/home.jpeg": "/Portfolio/static/media/home.00367408b801ad5435de.jpeg",
+    "static/media/login.jpeg": "/Portfolio/static/media/login.9db7c2c21a627684475b.jpeg",
+    "static/media/blockchain.png": "/Portfolio/static/media/blockchain.621cf648c9a698817c12.png",
+    "static/media/account.jpeg": "/Portfolio/static/media/account.af955025e8c7ba27778b.jpeg",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/email.png": "/Portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/erc7211.jpeg": "/Portfolio/static/media/erc7211.f065ec161297881b8138.jpeg",
+    "static/media/erc20.jpeg": "/Portfolio/static/media/erc20.0151d5d6d7ecd7b14382.jpeg",
+    "static/media/erc721.jpeg": "/Portfolio/static/media/erc721.63445b60d6264efae376.jpeg",
+    "static/media/contactImg2.png": "/Portfolio/static/media/contactImg2.192a7e7469a550e9f120.png",
+    "static/media/btcmarketslogo.svg": "/Portfolio/static/media/btcmarketslogo.af38b9e7c23655ac3b03c3a256ec0428.svg",
+    "static/media/derivadaologo.svg": "/Portfolio/static/media/derivadaologo.efc42e520967e69ac307cca87be1f7ab.svg",
+    "static/media/blockchainlogo.svg": "/Portfolio/static/media/blockchainlogo.253670e38035a0152e08abb2df19cd53.svg",
+    "static/media/iotchainlogo.svg": "/Portfolio/static/media/iotchainlogo.8809d5ff689b93fa47aa433ff310cbfe.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.3b060c33.css.map": "/Portfolio/static/css/main.3b060c33.css.map",
+    "main.286eee88.js.map": "/Portfolio/static/js/main.286eee88.js.map",
+    "787.2dcca737.chunk.js.map": "/Portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b060c33.css",
+    "static/js/main.286eee88.js"
+  ]
+}
