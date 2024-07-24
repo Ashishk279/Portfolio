@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## Deploy for vercel
+## Deploy on vercel
 https://portfolio-ten-theta-16.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
