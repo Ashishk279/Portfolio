@@ -34,6 +34,7 @@
   
   .skillBar{
     display:flex;
+    box-shadow: 4px 4px 2px #cdc1c1;
     margin: 1rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;

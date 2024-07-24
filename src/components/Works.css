@@ -3,8 +3,8 @@
   min-height: calc(100vh - 4rem);
   width: 100vw;
   max-width: 50rem;
-  display: flex;
-  flex-direction: column;
+  /* display: flex; 
+  flex-direction: column; */
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -16,6 +16,11 @@
   font-size: 3rem;
 }
 
+.image{
+  width: 100%;
+  padding: 12px 12px;
+  
+}
 .workDesc {
   font-weight: 300;
   font-size: 1rem;
@@ -49,8 +54,9 @@
 }
 
 .carouselImg {
-  width:100%;
-  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  margin: 12px 0px;
 }
 
 .carouselImgs {
@@ -61,7 +67,8 @@
   .worksImg {
     height: 48vw;
   }
-  .carouselImgs1 {
-    padding-top:7rem;
+
+  .image {
+    padding-top: 2rem;
   }
 }
